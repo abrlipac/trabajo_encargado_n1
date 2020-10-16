@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Resumen}{}% 1
+\BOOKMARK [1][-]{section.2}{Abstract}{}% 2
+\BOOKMARK [1][-]{section.3}{Introduccion}{}% 3
+\BOOKMARK [1][-]{section.4}{Desarrollo}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Base de datos relacional}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Estructuras de datos en Bases de datos}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{\301rboles generales}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Arboles binarios}{section.4}% 8
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Algoritmos transversales}{subsection.4.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Pre-orden}{subsection.4.4}% 10
+\BOOKMARK [3][-]{subsubsection.4.4.3}{In-orden}{subsection.4.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.4.4}{Post-orden}{subsection.4.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.4.5}{Aplicaciones frecuentes}{subsection.4.4}% 13
+\BOOKMARK [2][-]{subsection.4.5}{Implementaci\363n en Bases de datos}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.6}{Beneficios}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.7}{Perjuicios}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Conclusiones}{}% 17
+\BOOKMARK [1][-]{section.6}{Recomendaciones}{}% 18
